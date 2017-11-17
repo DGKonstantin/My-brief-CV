@@ -1,0 +1,27 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\JavaRush\\Android Couse\\Projects\\WhatamIlookingfor\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en\\values-en.xml",
+            "map": [
+                {
+                    "source": "D:\\JavaRush\\Android Couse\\Projects\\WhatamIlookingfor\\app\\src\\main\\res\\values-en\\values-en.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,7",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,4",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,158",
+                        "endColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,90",
+                        "endOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,244"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,11,12,13,14,15,19,20,21,31,36,39",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,89,144,551,610,659,703,752,875,927,1008,1568,1852,1975",
+                        "endLines": "2,3,10,11,12,13,14,18,19,20,30,35,38,39",
+                        "endColumns": "33,54,17,58,48,43,48,13,51,80,17,17,13,90",
+                        "endOffsets": "84,139,546,605,654,698,747,870,922,1003,1563,1847,1970,2061"
+                    }
+                }
+            ]
+        }
+    ]
+}
