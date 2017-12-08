@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.kostya.whatamilookingfor.Review">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/titleOfReview"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/CV"
+                android:textSize="@dimen/middleTitle"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:paddingTop="20dp"
+                />
+
+            <TextView
+                android:id="@+id/experience"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="left"
+                android:text="@string/experience"
+                android:textSize="@dimen/middleTitle"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:paddingTop="20dp"
+                />
+
+            <TextView
+                android:id="@+id/eperienceText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/experienceText"
+                android:textSize="@dimen/middle"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                />
+
+            <TextView
+                android:id="@+id/experience_programm"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="left"
+                android:text="@string/experienceInProgramming"
+                android:textSize="@dimen/middleTitle"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                />
+
+            <TextView
+                android:id="@+id/experience_programmText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/experienceInProgrammingText"
+                android:textSize="@dimen/middle"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                />
+
+            <TextView
+                android:id="@+id/aboutMyself"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="left"
+                android:text="@string/aboutMyself"
+                android:textSize="@dimen/middleTitle"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                />
+
+            <TextView
+                android:id="@+id/aboutMyselfText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/aboutMyselfText"
+                android:textSize="@dimen/middle"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                />
+
+            <TextView
+                android:id="@+id/contacts"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="left"
+                android:text="@string/contacts"
+                android:textSize="@dimen/middleTitle"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                />
+
+            <TextView
+                android:id="@+id/contactsText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/contactsText"
+                android:textSize="@dimen/middle"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

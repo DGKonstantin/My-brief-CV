@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+        xmlns:app="http://schemas.android.com/apk/res-auto">
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        tools:context=".Review">
+
+    <group>
+
+        <item
+            android:id="@+id/blackBg"
+            android:orderInCategory="100"
+            android:title="black backgroung"
+            app:showAsAction="never"/>
+        <item
+            android:id="@+id/whiteBg"
+            android:orderInCategory="100"
+            android:title="white background" />
+
+    </group>
+
+
+
+    <group >
+
+        <item
+            android:id="@+id/bigSize"
+            android:orderInCategory="100"
+            android:title="large" />
+        <item
+            android:id="@+id/midSize"
+            android:orderInCategory="100"
+            android:title="midlle" />
+        <item
+            android:id="@+id/smlSize"
+            android:orderInCategory="100"
+            android:title="small" />
+
+    </group>
+
+
+</menu>

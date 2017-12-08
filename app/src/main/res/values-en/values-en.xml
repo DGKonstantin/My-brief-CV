@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="button1">Review of CV</string>
+
+    <string name="button2">call me</string>
+
+    <string name="text">Если вам нужен русский\n просто поменяйте язык в телефоне</string>
+
+    <string name="app_name">What am I looking for</string>
+
+    <string name="greeting">Hello everyone! \n
+        my name is Kostia \n I am looking for a job in Moscow
+    </string>
+
+    <string name="CV">CV</string>
+
+    <string name="experience">Experience\n</string>
+
+    <string name="experienceText">
+        For 4 years I worked as an engineer-calculator at the state plant.
+        I performed calculations for strength, created technical documentation.
+        Cooperated with employees of neighboring departments and units.\n\n
+        </string>
+
+    <string name="experienceInProgramming">Experience in programming \n</string>
+
+    <string name="experienceInProgrammingText">
+        Since September of this year I have been online learning on
+        the site javarush.ru, now I finish the course javacore i.e.
+        I understand the principles of OOP, inheritance, multithreading.
+        In addition to the basic principles of java,
+        I study android-development on the site fandroit.info,
+        i.e. familiar with the process of creating android applications.
+        There is a completed course on the basics of C++
+        at stepic.org from Yandex.\n\n
+        </string>
+
+    <string name="aboutMyself">About myself\n</string>
+
+    <string name="aboutMyselfText">
+        I am interested in self-education and personal effectiveness,
+        looking for methods and means for pumping my mind, body and character,
+        I am not ready to sit in one place without work, I will work in
+        a company that needs active youth, I consider myself creative,
+        support my body in a healthy and an alert state.\n\n
+        </string>
+
+    <string name="contacts">Contacts:\n</string>
+
+    <string name="contactsText">
+        Tel: +7-965-790-13-65\n
+        e-mail: malykh-konstantin@yandex.ru
+    </string>
+
+</resources>

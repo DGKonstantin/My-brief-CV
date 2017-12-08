@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="button1">Посмотреть краткое резюме</string>
+
+    <string name="button2">Позвонить мне</string>
+
+    <string name="text">If you need English\n just change language in your phone</string>
+
+    <string name="app_name">Что я ищу</string>
+
+    <string name="CV">Резюме</string>
+
+    <string name="greeting">Привет всем! \n
+        Меня зовут Костя \n Я ищу работу в Москве</string>
+
+    <string name="experience">Опыт работы\n</string>
+
+    <string name="experienceText">
+        В течении 4 лет работал инженером-расчетчиком на государственном заводе.
+        Выполнял расчеты на прочность, составлял техническую документацию.
+        Взаимодействовал с сотрудниками соседних отделов и подразделений. \n\n
+        </string>
+
+    <string name="experienceInProgramming">Опыт в программировании\n</string>
+
+    <string name="experienceInProgrammingText">
+        С сентября текущего года прохожу онлайн обучение на сайте javarush.ru,
+        в настоящее время заканчиваю курс javacore т.е понимаю принципы ООП,
+        наследование, многопоточность. Кроме теортических основ java изучаю
+        android-разработку на сайте fandroit.info, т.е.
+        знаком с процессом создания android приложений.
+        Имеется законченный курс по основам C++
+        на сайте stepic.org от компании Yandex.\n\n
+        </string>
+    <string name="aboutMyself">О себе\n</string>
+
+    <string name="aboutMyselfText">
+        Заинтересован в самообразовании и повышении личной эффективности,
+        ищу методы и средства для прокачки своего ума, тела и характера,
+        не готов сидеть на одном месте без дела, буду работать в компании,
+        которая нуждается в активной молодёжи, считаю себя креативным,
+        поддерживаю свое тело в здоровом и бодром состоянии.\n\n
+        </string>
+    <string name="contacts">Контакты\n</string>
+
+    <string name="contactsText">
+        Тел: +7-965-790-13-65\n
+        e-mail: malykh-konstantin@yandex.ru
+    </string>
+
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+
+
+    <dimen name="big">13sp</dimen>
+    <dimen name="middle">10sp</dimen>
+    <dimen name="small">8sp</dimen>
+
+    <dimen name="bigTitle">15sp</dimen>
+    <dimen name="middleTitle">13sp</dimen>
+    <dimen name="smallTitle">10sp</dimen>
+
+</resources>
